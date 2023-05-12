@@ -38,7 +38,8 @@ Je suis étudiant chez [OpenClassroms](https://openclassrooms.com/fr/) suivant l
 <a target="_blank" rel="noopener noreferrer nofollow"  href="https://www.linkedin.com/in/alexis-cresson-a11563194/"> LinkedIn - CRESSON Alexis</a>
 </p>
 <br> 
-Si vous êtes pas trop réseau voici mon mail : ＠
+Si vous êtes pas trop réseau voici mon mail : 📧
+<br>
 alexis@webcresson.com
 
 <!--
