@@ -37,6 +37,9 @@ Je suis étudiant chez [OpenClassroms](https://openclassrooms.com/fr/) suivant l
 <br>
 <a target="_blank" rel="noopener noreferrer nofollow"  href="https://www.linkedin.com/in/alexis-cresson-a11563194/"> LinkedIn - CRESSON Alexis</a>
 </p>
+<br> 
+Si vous êtes pas trop réseau voici mon mail : ＠
+alexis@webcresson.com
 
 <!--
 **creacress/creacress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
