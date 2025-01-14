@@ -32,8 +32,8 @@ Je suis un **Data Engineer** passionné, spécialisé dans la manipulation de do
 
 | **Projet**          | **Description**                                                                                             | **Technos**             |
 |----------------------|-------------------------------------------------------------------------------------------------------------|-------------------------|
-| [NomDuProjet1](#)    | Pipeline de données optimisé pour un modèle de prédiction de séries temporelles.                           | Python, PySpark, MLflow |
-| [NomDuProjet2](#)    | Automatisation d'une collecte massive de données via Selenium pour l'analyse d'opinion.                    | Python, Selenium        |
+| [WebCressonTech WebSite](https://github.com/creacress/web-cresson-tech)    | Site Web de mon entreprise.        | NextJS, SEO, CI/CD (Github Actions)  |
+| [Prédiction du Marché Boursier de Safran](https://github.com/creacress/Finance)    | Collecte massive des données historiques de Safran et analyse prédictive des bourses.                    | Python,        |
 | [NomDuProjet3](#)    | Tableau de bord interactif avec intégration de données en temps réel.                                      | React, Flask, PostgreSQL|
 
 ---
