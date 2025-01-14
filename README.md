@@ -1,7 +1,3 @@
-Voici une version mise à jour et bien structurée de ton `README.md` avec tes nouvelles données :
-
----
-
 # 👋 Bienvenue sur mon profil GitHub !
 
 Je suis un **Data Engineer** passionné, spécialisé dans la manipulation de données pour le développement de solutions en **IA** et **RPA (Robotic Process Automation)**. Mon expertise couvre des domaines tels que :
