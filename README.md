@@ -1,6 +1,12 @@
+Voici une version mise à jour et bien structurée de ton `README.md` avec tes nouvelles données :
+
+---
+
 # 👋 Bienvenue sur mon profil GitHub !
 
 Je suis un **Data Engineer** passionné, spécialisé dans la manipulation de données pour le développement de solutions en **IA** et **RPA (Robotic Process Automation)**. Mon expertise couvre des domaines tels que :
+
+---
 
 ### 🛠 **Compétences et Outils**
 
@@ -27,14 +33,17 @@ Je suis un **Data Engineer** passionné, spécialisé dans la manipulation de do
 🌍 Toujours curieux d'apprendre et d'innover, j'aime résoudre des problèmes complexes et partager mes connaissances.
 
 ---
+Voici une version mise à jour avec des technos complétées et plus détaillées pour chaque projet :
+
+---
 
 ### 📂 **Projets phares**
 
-| **Projet**          | **Description**                                                                                             | **Technos**             |
-|----------------------|-------------------------------------------------------------------------------------------------------------|-------------------------|
-| [WebCressonTech WebSite](https://github.com/creacress/web-cresson-tech)    | Site Web de mon entreprise.        | NextJS, SEO, CI/CD (Github Actions)  |
-| [Prédiction du Marché Boursier de Safran](https://github.com/creacress/Finance)    | Collecte massive des données historiques de Safran et analyse prédictive des bourses.                    | Python,        |
-| [NomDuProjet3](#)    | Tableau de bord interactif avec intégration de données en temps réel.                                      | React, Flask, PostgreSQL|
+| **Projet**                                                                  | **Description**                                                                                             | **Technos**                     |
+|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------|
+| [WebCressonTech WebSite](https://github.com/creacress/web-cresson-tech)     | Site Web de mon entreprise, avec un SEO performant, déploiement continu et une interface moderne.           | Next.js SEO, CI/CD, GitHub Actions, Docker |
+| [Prédiction du Marché Boursier de Safran](https://github.com/creacress/Finance) | Analyse prédictive basée sur des données historiques de Safran, incluant la collecte, l'analyse et la visualisation des données. | Python, Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter |
+| [RPA - Traitement Automatisé de Contrats pour La Poste](https://github.com/creacress/RPA---Traitement-Automatis-de-Contrats-pour-La-Poste.) | Automatisation des workflows liés aux contrats grâce à des scripts RPA personnalisés et des APIs backend.   | Python, Selenium, React, Flask, SQL, Electron.js       |
 
 ---
 
@@ -43,8 +52,10 @@ Je suis un **Data Engineer** passionné, spécialisé dans la manipulation de do
 
 ---
 
-📫 **Contactez-moi** :
+### 📫 **Contactez-moi** :
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexis%20Cresson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-cresson/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-WebCresson.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.webcresson.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexis%20Cresson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-cresson/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-WebCresson.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.webcresson.com/)  
 [![Email](https://img.shields.io/badge/Email-alexis@webcresson.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexis@webcresson.com)
+
+---
