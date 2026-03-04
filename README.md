@@ -1,55 +1,134 @@
+<div align="center">
 
+<!-- Header animé -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Alexis+Cresson+%7C+Data+Engineer+%26+IA+Builder;Pipelines+Data+%E2%80%A2+LLM+%E2%80%A2+OSINT+%E2%80%A2+Automatisation)](https://github.com/creacress)
 
-# 👋 Bienvenue sur mon GitHub !
+<p>
+  <a href="https://www.linkedin.com/in/alexis-cresson/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.webcresson.com/"><img src="https://img.shields.io/badge/Portfolio-webcresson.com-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:alexis@webcresson.com"><img src="https://img.shields.io/badge/Email-alexis@webcresson.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-Je suis **Alexis Cresson**, **Data Engineer** et **builder IA**, spécialisé dans la création de pipelines data, le déploiement de modèles IA/LLM, et l'automatisation avancée (RPA, scraping, CI/CD).  
-Mes projets vont de l’**OSINT en temps réel** à la **modélisation d’architectures IA** complexes.
+<img src="https://komarev.com/ghpvc/?username=creacress&style=for-the-badge&color=58A6FF" alt="Profile views"/>
 
----
-
-### 🧠 **Expertises clés**
-
-- 🧱 **Data Engineering** : ingestion, nettoyage, orchestration (Airflow, Spark, SQL, Pandas)
-- 🤖 **IA & LLM** : fine-tuning, embeddings, serving local (Ollama, Transformers, LangChain)
-- 🔍 **OSINT / Scraping** : web + dark web, corrélation d'entités, cartographie géopolitique
-- 🚀 **DevOps & CI/CD** : Docker, GitHub Actions, VPS hosting, MLflow tracking
-- 🧪 **RPA** : automatisation de process complexes (Selenium, Excel, API)
+</div>
 
 ---
 
-### 🛠 **Stacks et outils favoris**
+## A propos
 
+Data Engineer et builder IA, je conçois des **pipelines data robustes**, déploie des **modèles IA/LLM** en production, et automatise des processus métier complexes (RPA, scraping, CI/CD).
+Mes projets couvrent l'**OSINT en temps réel**, la **modélisation d'architectures IA**, et le **développement fullstack**.
+
+---
+
+## Expertises
+
+<table>
+  <tr>
+    <td align="center" width="20%"><strong>Data Engineering</strong><br/>Ingestion, nettoyage, orchestration<br/><sub>Airflow, Spark, SQL, Pandas</sub></td>
+    <td align="center" width="20%"><strong>IA & LLM</strong><br/>Fine-tuning, embeddings, serving<br/><sub>Ollama, Transformers, LangChain</sub></td>
+    <td align="center" width="20%"><strong>OSINT / Scraping</strong><br/>Web + dark web, cartographie<br/><sub>SerpAPI, Selenium, Leaflet</sub></td>
+    <td align="center" width="20%"><strong>DevOps & CI/CD</strong><br/>Conteneurisation, MLOps<br/><sub>Docker, GitHub Actions, MLflow</sub></td>
+    <td align="center" width="20%"><strong>RPA</strong><br/>Automatisation de process<br/><sub>Selenium, Excel, API</sub></td>
+  </tr>
+</table>
+
+---
+
+## Stack technique
+
+<div align="center">
+
+#### Langages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LLM](https://img.shields.io/badge/HuggingFace-FFAA33?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=data&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+#### IA & Data
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFAA33?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-101010?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003B57?style=for-the-badge&logo=postgresql)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+#### Infrastructure & Outils
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</div>
 
 ---
 
-### 🚀 **Projets en avant**
+## Projets phares
 
-| Projet | Description | Techs |
-|--------|-------------|-------|
-| [`GTD Visualizer`](https://github.com/creacress/gtd-ia) | OSINT + IA en temps réel pour visualiser les attentats à l’échelle mondiale. Détection, géoloc, traduction. | Next.js, SQLite, API, i18n, Leaflet, CI/CD |
-| [`BackDark`](https://github.com/creacress/backdark) | Moteur de recherche OSINT/scraping pour Google + dark web, connecté à un LLM local. | FastAPI, SerpAPI, Ollama, LangChain, SQLite |
-| [`CIPA`](https://github.com/creacress/cipa) | Corrélateur IA de préfiguration d’attentats. Analyse spatio-temporelle avec la base GTD. | Python, ML, Jupyter, Matplotlib |
-| [`WebCressonTech`](https://github.com/creacress/web-cresson-tech) | Site vitrine tech avec animation, SEO optimisé, et intégration des services IA. | Next.js, Tailwind, CI/CD |
-| [`RPA Affranchigo`](https://github.com/creacress/RPA---Traitement-Automatis-de-Contrats-pour-La-Poste.) | Automatisation complète de traitement de contrats pour La Poste. | Python, Excel, Selenium, Flask |
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/creacress/gtd-ia">GTD Visualizer</a></h3>
+      <p align="center">OSINT + IA en temps réel pour visualiser les attentats à l'échelle mondiale. Détection, géolocalisation, traduction automatique.</p>
+      <p align="center"><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite" /> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet" /> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions" /></p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/creacress/backdark">BackDark</a></h3>
+      <p align="center">Moteur de recherche OSINT/scraping pour Google + dark web, connecté à un LLM local pour l'analyse.</p>
+      <p align="center"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" /> <img src="https://img.shields.io/badge/Ollama-101010?style=flat-square" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/creacress/cipa">CIPA</a></h3>
+      <p align="center">Corrélateur IA de préfiguration d'attentats. Analyse spatio-temporelle avec la base GTD et modèles ML.</p>
+      <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" /></p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/creacress/web-cresson-tech">WebCressonTech</a></h3>
+      <p align="center">Site vitrine tech avec animations, SEO optimisé, et intégration des services IA.</p>
+      <p align="center"><img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss" /> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center"><a href="https://github.com/creacress/RPA---Traitement-Automatis-de-Contrats-pour-La-Poste.">RPA Affranchigo</a></h3>
+      <p align="center">Automatisation complète de traitement de contrats pour La Poste. Pipeline RPA de bout en bout.</p>
+      <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium" /> <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask" /> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel" /></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 **Stats GitHub**
-![Stats](https://github-readme-stats.vercel.app/api?username=creacress&show_icons=true&theme=radical)
+## Statistiques GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=creacress&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creacress&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=creacress&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=creacress&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9" alt="Activity Graph"/>
+</div>
 
 ---
 
-### 📡 **Me suivre ou me contacter**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/creacress/creacress/output/github-snake-dark.svg" alt="Snake animation"/>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexis%20Cresson-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexis-cresson/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-WebCresson.com-000000?style=for-the-badge&logo=About.me)](https://www.webcresson.com/)
-[![Email](https://img.shields.io/badge/Email-alexis@webcresson.com-EA4335?style=for-the-badge&logo=gmail)](mailto:alexis@webcresson.com)
+---
+
+<div align="center">
+  <sub>Built with passion by <strong>Alexis Cresson</strong></sub>
+</div>
